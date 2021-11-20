@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/20210930_221359.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/20211120_110600_1.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="ABU_SER_v2" src="https://img.shields.io/badge/ABU_SER_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>

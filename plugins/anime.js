@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/FwPP04q/images.jpg";
+    r_text[0] = "https://ibb.co/Y05dKSq/images.jpg";
     r_text[1] = "https://i.ibb.co/GH2tWJ4/images-1.jpg";
     r_text[2] = "https://i.ibb.co/Mf79pVH/download.jpg";
     r_text[3] = "https://i.ibb.co/b11BDWH/images-2.jpg";
@@ -112,7 +112,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/FwPP04q/images.jpg";
+    r_text[0] = "https://ibb.co/Y05dKSq/images.jpg";
     r_text[1] = "https://i.ibb.co/GH2tWJ4/images-1.jpg";
     r_text[2] = "https://i.ibb.co/Mf79pVH/download.jpg";
     r_text[3] = "https://i.ibb.co/b11BDWH/images-2.jpg";
@@ -196,7 +196,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Made By JulieMwol'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '💖ᴄʀᴇᴀʀᴇᴅ ʙʏ➡️ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝✰ͣᴀͫʙᴜ ʙᴏᴛ ✰💖```'})
 
     }));
 }

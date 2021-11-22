@@ -3,7 +3,7 @@ const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys'
 const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
-const ll ="*```Enter a word```"
+const ll ="*```😍ɪʏᴀʟ ᴇɴᴛʜᴀ ɴᴀᴍᴇ ᴇʏᴛʜᴀᴛʜᴇ ᴀɴᴏ ᴇɴᴏᴅ ᴍᴀᴋɪɴɢ ᴄʜᴀʏʏᴀɴ ᴘᴀʀᴀʏᴜɴɴᴇ🙄```"
 const Ln = "Free Fire logo maker"
 const code = "*_50 FF LOGO PACK_*\n\n*🧞‍♂️.ff01 : Makes FF logo*\n\n🧞‍♂️.ff02 : Makes FF logo**\n\n*🧞‍♂️.ff03 : Makes FF logo*\n\n🧞‍♂️.ff04 : Makes FF logo*\n\n🧞‍♂️.ff5 : Makes FF logo*\n\n🧞‍♂️.ff6 : Makes FF logo*\n\n🧞‍♂️.ff07 : Makes FF logo*\n\n🧞‍♂️.ff08 : Makes FF logo*\n\n🧞‍♂️.ff09 : Makes FF logo*\n\n🧞‍♂️.ff10 : Makes FF logo*\n\n🧞‍♂️.ff12 : Makes FF logo*\n\n🧞‍♂️.ff13 : Makes FF logo*\n\n🧞‍♂️.ff14 : Makes FF logo*\n\n🧞‍♂️.ff15 : Makes FF logo*\n\n🧞‍♂️.ff16 : Makes FF logo*\n\n🧞‍♂️.ff17 : Makes FF logo*\n\n🧞‍♂️.ff18 : Makes FF logo*\n\n🧞‍♂️.ff19 : Makes FF logo*\n\n🧞‍♂️.ff20 : Makes FF logo*\n\n🧞‍♂️.ff21 : Makes FF logo*\n\n🧞‍♂️.ff22 : Makes FF logo*\n\n🧞‍♂️.ff23 : Makes FF logo*\n\n🧞‍♂️.ff24 : Makes FF logo*\n\n🧞‍♂️.ff25 : Makes FF logo*\n\n🧞‍♂️.ff26 : Makes FF logo*\n\n🧞‍♂️.ff27 : Makes FF logo*\n\n🧞‍♂️.ff28 : Makes FF logo*\n\n🧞‍♂️.ff29 : Makes FF logo*\n\n🧞‍♂️.ff30 : Makes FF logo*\n\n🧞‍♂️.ff31 : Makes FF logo*\n\n🧞‍♂️.ff32 : Makes FF logo*\n\n🧞‍♂️.ff33 : Makes FF logo*\n\n🧞‍♂️.ff34 : Makes FF logo*\n\n🧞‍♂️.ff35 : Makes FF logo*\n\n🧞‍♂️.ff36 : Makes FF logo*\n\n🧞‍♂️.ff37 : Makes FF logo*\n\n🧞‍♂️.ff38 : Makes FF logo*\n\n🧞‍♂️.ff39 : Makes FF logo*\n\n🧞‍♂️.ff40 : Makes FF logo*\n\n🧞‍♂️.ff41 : Makes FF logo*\n\n🧞‍♂️.ff42 : Makes FF logo*\n\n🧞‍♂️.ff43 : Makes FF logo*\n\n🧞‍♂️.ff44 : Makes FF logo*\n\n🧞‍♂️.ff45 : Makes FF logo*\n\n🧞‍♂️.ff46 : Makes FF logo*\n\n🧞‍♂️.ff47 : Makes FF logo*\n\n🧞‍♂️.ff48 : Makes FF logo*\n\n🧞‍♂️.ff49 : Makes FF logo*\n\n🧞‍♂️.ff50 : Makes FF logo*\n\n"
 //thanks to saidali & shadow
@@ -529,7 +529,7 @@ if (Config.WORKTYPE == 'public') {
 
         var ttinullimage = await axios.get(`https://docs-jojo.herokuapp.com/api/meme-gen?top=%20&bottom=${encodeURIComponent(match[1])}&img=https://telegra.ph/file/4cc2fe3ca2a712d3b14cc.jpg`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '🚀Made by DARK KNIGHT' })
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '🚀💖ᴄʀᴇᴀʀᴇᴅ ʙʏ➡️ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝✰ͣᴀͫʙᴜ ʙᴏᴛ ✰💖```' })
     
     }));
  

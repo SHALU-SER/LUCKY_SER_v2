@@ -69,7 +69,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DsWqJWHRxgU16kvxFvLYL6)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username-ABU-OP&repo=ABU_SER_v2&theme=nightowl)](https://github.com/ABUOP1/ABU_SER_v2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username-LUCKY-OP&repo=LUCKY_SER_v2&theme=nightowl)](https://github.com/SHALU-SER/LUCKY_SER_v2)
   </div>
     
 ### ⚠️ Warning! 
@@ -82,7 +82,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## THANKS TO
 * [`Baileys`]
-* [`ABU-OP`](github.com/ABUOP1)
+* [`LUCKY-OP`](github.com/SHALU-SER)
 * [`Farhan-dqz`](github.com/Farhan-dqz)
 
 ## Developers

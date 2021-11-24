@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/20211120_110600_1.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/IMG-20211123-WA0382.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="ABU_SER_v2" src="https://img.shields.io/badge/ABU_SER_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SHALU_SER_v2" src="https://img.shields.io/badge/SHALU_SER_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ABUOP1"><img title="Author" src="https://img.shields.io/badge/Author-ABUOP1/ABU_SER_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SHALU-SER"><img title="Author" src="https://img.shields.io/badge/Author-SHALU-SER/LUCKY_SER_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ABUOP1">ABU-OP</a> to make it public
+Project created by <a href="https://github.com/SHALU-SER">LUCKY-OP</a> to make it public
     <br>
        | © |
         Reserved |
@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/ABUOP1">ABU-OP</a> to make it pub
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/ABUOP1/ABU_SER_v2
+$ git clone https://github.com/SHALU-SER/SHALU_SER_v2
 $ cd ABY_SER_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -41,7 +41,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/ABUOP1/ABU_SER_v2
+$ git clone https://github.com/SHALU-SER/LUCKY_SER_v2
 $ cd ABU_SER_v2
 $ npm i
 $ node julie.js

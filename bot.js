@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ ABU_SER working!')
+            chalk.green.bold('✅ SHALU_SER working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -391,8 +391,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ABU SER ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report errors\njoin with +91 \nhttps://chat.whatsapp.com/Kt28Eode7wyLQXBtCrkjdX``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ SHALU SER ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report errors\njoin with +91 \nhttps://chat.whatsapp.com/EnayNY69wLy7Gf4zbzoNoZ``` ' 
                                     , MessageType.text);
                             }
                         }
